@@ -1,0 +1,166 @@
+body {
+    background: url(images/background.avif);
+    background-size:cover;
+}
+
+.intro {
+    background-color: black;
+    display: flex;
+}
+
+.intro img {
+    width: 300px;
+    height: 250px;
+}
+
+.intro h1{
+    color: white;
+    margin-top: 75px;
+    font-size: 75px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#upcoming h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.myImage img{
+
+    border-radius: 25px;
+}
+
+.images {
+    display: flex;
+    margin-left: 140px;
+   
+}
+
+.myImage{
+    margin: 45px;
+    align-content: center;
+    justify-content: center;
+}
+
+.myImage h4{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.title img {
+    margin-top: 35px;
+    width: 75px;
+    height: 75px;
+}
+.titleUpcoming img {
+    margin-top: 35px;
+    width: 75px;
+    height: 75px;
+}
+.titleUpcoming{
+    margin-left: 650px;
+    display: flex;
+}
+
+.title {
+    margin-left: 700px;
+    display: flex;
+}
+
+.header {
+    margin-top: -100px;
+}
+
+
+
+#artist h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.artistImages{
+    display: flex;
+    justify-content: center;
+}
+
+
+.artistImg img{
+    margin: 50px;
+}
+
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.songs h3{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #05998c;
+    width: 40%;
+    margin-left: 550px;
+    height: 40px;
+    padding: 10px;
+}
+
+
+.title1{
+    display: flex;
+    margin-left: 700px;
+}
+
+.title1 img {
+    width: 150px;
+}
+
+.title2 {
+    display: flex;
+    margin-left: 770px;
+}
+
+.title2 img {
+    width: 85px;
+    height: 70px;
+    display: flex;
+}
+
+.moods{
+    display: flex;
+    margin-top: -150px;
+}
+
+.artistImages img{
+    height: 150px;
+}
+
+.moodHeading {
+    color: white;
+    font-size: 30px;
+    font-family: Cochin;
+    margin-top: 180px;
+    margin-left: -375px;
+}
+
+.moodSongs {
+    margin: 75px;
+    padding: 80px;
+}
+
+.moodSongs img {
+    border: 3px dotted white;
+}
+
+.title2 img {
+    margin-top: 40px;
+}
